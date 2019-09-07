@@ -1,5 +1,7 @@
 # Receiver Function Recalculation
 
+Recalculation of the results from [West-East receiver function profile in Northern Chile](https://nbviewer.jupyter.org/github/trichter/notebooks/blob/master/receiver_function_profile_chile.ipynb).
+
 ## Installation:
 If you have anaconda available then all the package can be installed using the command:
 

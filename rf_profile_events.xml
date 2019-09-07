@@ -1,0 +1,3085 @@
+<?xml version='1.0' encoding='utf-8'?>
+<q:quakeml xmlns:q="http://quakeml.org/xmlns/quakeml/1.2" xmlns:iris="http://service.iris.edu/fdsnws/event/1/" xmlns="http://quakeml.org/xmlns/bed/1.2" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance">
+  <eventParameters publicID="smi:service.iris.edu/fdsnws/event/1/query">
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=3275667">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17834276</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176289916</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="406">
+        <text>CENTRAL MID-ATLANTIC RIDGE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17834276" iris:contributorOriginId="01616640" iris:contributor="ISC" iris:contributorEventId="15902389" iris:catalog="ISC">
+        <time>
+          <value>2010-12-31T16:30:55.360000Z</value>
+        </time>
+        <latitude>
+          <value>0.7018</value>
+        </latitude>
+        <longitude>
+          <value>-26.1127</value>
+        </longitude>
+        <depth>
+          <value>14000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176289916">
+        <mag>
+          <value>5.5</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=3207441">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17799730</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176270571</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="691">
+        <text>PACIFIC-ANTARCTIC RIDGE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17799730" iris:contributorOriginId="01615171" iris:contributor="ISC" iris:contributorEventId="15853295" iris:catalog="ISC">
+        <time>
+          <value>2010-12-24T05:48:54.040000Z</value>
+        </time>
+        <latitude>
+          <value>-63.5725</value>
+        </latitude>
+        <longitude>
+          <value>-167.3744</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176270571">
+        <mag>
+          <value>6.0</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=3207070">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17782124</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176258647</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="73">
+        <text>EL SALVADOR</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17782124" iris:contributorOriginId="01613994" iris:contributor="ISC" iris:contributorEventId="15813623" iris:catalog="ISC">
+        <time>
+          <value>2010-12-20T17:21:25.390000Z</value>
+        </time>
+        <latitude>
+          <value>13.0156</value>
+        </latitude>
+        <longitude>
+          <value>-88.7206</value>
+        </longitude>
+        <depth>
+          <value>71600.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176258647">
+        <mag>
+          <value>5.7</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=3207029">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17781675</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176258458</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="730">
+        <text>NORTHERN EAST PACIFIC RISE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17781675" iris:contributorOriginId="01613978" iris:contributor="ISC" iris:contributorEventId="15813620" iris:catalog="ISC">
+        <time>
+          <value>2010-12-20T15:15:09.890000Z</value>
+        </time>
+        <latitude>
+          <value>10.1117</value>
+        </latitude>
+        <longitude>
+          <value>-104.0283</value>
+        </longitude>
+        <depth>
+          <value>17100.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176258458">
+        <mag>
+          <value>5.9</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=3206637">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17738874</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176239483</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="403">
+        <text>NORTHERN MID-ATLANTIC RIDGE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17738874" iris:contributorOriginId="01612775" iris:contributor="ISC" iris:contributorEventId="15741590" iris:catalog="ISC">
+        <time>
+          <value>2010-12-10T17:48:21.790000Z</value>
+        </time>
+        <latitude>
+          <value>23.8137</value>
+        </latitude>
+        <longitude>
+          <value>-45.7711</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176239483">
+        <mag>
+          <value>5.5</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=3206419">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17726975</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176234103</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="153">
+        <text>SOUTH SANDWICH ISLANDS REGION</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17726975" iris:contributorOriginId="01612432" iris:contributor="ISC" iris:contributorEventId="15696531" iris:catalog="ISC">
+        <time>
+          <value>2010-12-08T05:24:35.150000Z</value>
+        </time>
+        <latitude>
+          <value>-56.4318</value>
+        </latitude>
+        <longitude>
+          <value>-25.64</value>
+        </longitude>
+        <depth>
+          <value>29000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176234103">
+        <mag>
+          <value>6.3</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=3275480">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17722679</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176232219</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="732">
+        <text>EAST OF SOUTH SANDWICH ISLANDS</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17722679" iris:contributorOriginId="01612325" iris:contributor="ISC" iris:contributorEventId="15710290" iris:catalog="ISC">
+        <time>
+          <value>2010-12-07T05:31:04.430000Z</value>
+        </time>
+        <latitude>
+          <value>-58.1544</value>
+        </latitude>
+        <longitude>
+          <value>-7.8564</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176232219">
+        <mag>
+          <value>5.7</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=3206359">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17722579</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176232170</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="732">
+        <text>EAST OF SOUTH SANDWICH ISLANDS</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17722579" iris:contributorOriginId="01612322" iris:contributor="ISC" iris:contributorEventId="15696516" iris:catalog="ISC">
+        <time>
+          <value>2010-12-07T04:27:22.140000Z</value>
+        </time>
+        <latitude>
+          <value>-58.0266</value>
+        </latitude>
+        <longitude>
+          <value>-7.611</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176232170">
+        <mag>
+          <value>5.9</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=3206286">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17717123</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176229704</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="756">
+        <text>SOUTHEAST OF EASTER ISLAND</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17717123" iris:contributorOriginId="01612177" iris:contributor="ISC" iris:contributorEventId="601851794" iris:catalog="ISC">
+        <time>
+          <value>2010-12-05T21:44:35.000000Z</value>
+        </time>
+        <latitude>
+          <value>-36.3092</value>
+        </latitude>
+        <longitude>
+          <value>-101.0308</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176229704">
+        <mag>
+          <value>5.9</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=3203634">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17678524</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176212852</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="403">
+        <text>NORTHERN MID-ATLANTIC RIDGE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17678524" iris:contributorOriginId="01504532" iris:contributor="ISC" iris:contributorEventId="15674190" iris:catalog="ISC">
+        <time>
+          <value>2010-11-27T02:44:53.240000Z</value>
+        </time>
+        <latitude>
+          <value>10.5469</value>
+        </latitude>
+        <longitude>
+          <value>-43.2165</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176212852">
+        <mag>
+          <value>5.8</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=3203562">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17652422</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176201263</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="691">
+        <text>PACIFIC-ANTARCTIC RIDGE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17652422" iris:contributorOriginId="01503790" iris:contributor="ISC" iris:contributorEventId="15671611" iris:catalog="ISC">
+        <time>
+          <value>2010-11-21T14:39:07.730000Z</value>
+        </time>
+        <latitude>
+          <value>-56.9014</value>
+        </latitude>
+        <longitude>
+          <value>-141.2825</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176201263">
+        <mag>
+          <value>5.5</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=3181484">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17650426</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176200379</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="691">
+        <text>PACIFIC-ANTARCTIC RIDGE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17650426" iris:contributorOriginId="01503736" iris:contributor="ISC" iris:contributorEventId="15667486" iris:catalog="ISC">
+        <time>
+          <value>2010-11-21T04:36:33.470000Z</value>
+        </time>
+        <latitude>
+          <value>-54.8356</value>
+        </latitude>
+        <longitude>
+          <value>-131.5605</value>
+        </longitude>
+        <depth>
+          <value>22800.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176200379">
+        <mag>
+          <value>6.0</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=3181170">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17607276</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176180279</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="756">
+        <text>SOUTHEAST OF EASTER ISLAND</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17607276" iris:contributorOriginId="01502462" iris:contributor="ISC" iris:contributorEventId="15649242" iris:catalog="ISC">
+        <time>
+          <value>2010-11-12T19:01:30.510000Z</value>
+        </time>
+        <latitude>
+          <value>-35.9407</value>
+        </latitude>
+        <longitude>
+          <value>-102.2764</value>
+        </longitude>
+        <depth>
+          <value>13900.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176180279">
+        <mag>
+          <value>5.8</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=3181390">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17602026</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176177993</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="153">
+        <text>SOUTH SANDWICH ISLANDS REGION</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17602026" iris:contributorOriginId="01502318" iris:contributor="ISC" iris:contributorEventId="15649802" iris:catalog="ISC">
+        <time>
+          <value>2010-11-11T18:47:16.630000Z</value>
+        </time>
+        <latitude>
+          <value>-59.5588</value>
+        </latitude>
+        <longitude>
+          <value>-26.2089</value>
+        </longitude>
+        <depth>
+          <value>40000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176177993">
+        <mag>
+          <value>5.5</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=3181384">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17598426</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176176519</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="83">
+        <text>SOUTH OF PANAMA</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17598426" iris:contributorOriginId="01502236" iris:contributor="ISC" iris:contributorEventId="15611655" iris:catalog="ISC">
+        <time>
+          <value>2010-11-10T23:48:37.900000Z</value>
+        </time>
+        <latitude>
+          <value>6.2605</value>
+        </latitude>
+        <longitude>
+          <value>-82.6889</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176176519">
+        <mag>
+          <value>5.7</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=3180676">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17554323</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176157865</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="61">
+        <text>CHIAPAS, MEXICO</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17554323" iris:contributorOriginId="01501235" iris:contributor="ISC" iris:contributorEventId="15274444" iris:catalog="ISC">
+        <time>
+          <value>2010-11-01T23:16:45.400000Z</value>
+        </time>
+        <latitude>
+          <value>16.9414</value>
+        </latitude>
+        <longitude>
+          <value>-93.6264</value>
+        </longitude>
+        <depth>
+          <value>171700.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176157865">
+        <mag>
+          <value>5.6</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2873489">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17542876</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176152927</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="691">
+        <text>PACIFIC-ANTARCTIC RIDGE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17542876" iris:contributorOriginId="01346837" iris:contributor="ISC" iris:contributorEventId="601530230" iris:catalog="ISC">
+        <time>
+          <value>2010-10-30T15:18:36.020000Z</value>
+        </time>
+        <latitude>
+          <value>-57.116</value>
+        </latitude>
+        <longitude>
+          <value>-142.4191</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176152927">
+        <mag>
+          <value>6.3</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=279927">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17530329</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176147725</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="49">
+        <text>GULF OF CALIFORNIA</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17530329" iris:contributorOriginId="01346544" iris:contributor="ISC" iris:contributorEventId="15268286" iris:catalog="ISC">
+        <time>
+          <value>2010-10-28T02:22:25.490000Z</value>
+        </time>
+        <latitude>
+          <value>23.178</value>
+        </latitude>
+        <longitude>
+          <value>-108.4263</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176147725">
+        <mag>
+          <value>5.6</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=3180566">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17506373</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176135708</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="691">
+        <text>PACIFIC-ANTARCTIC RIDGE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17506373" iris:contributorOriginId="01345827" iris:contributor="ISC" iris:contributorEventId="15266439" iris:catalog="ISC">
+        <time>
+          <value>2010-10-23T03:09:14.600000Z</value>
+        </time>
+        <latitude>
+          <value>-56.7485</value>
+        </latitude>
+        <longitude>
+          <value>-142.2807</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176135708">
+        <mag>
+          <value>5.8</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=3180522">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17491372</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176128828</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="49">
+        <text>GULF OF CALIFORNIA</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17491372" iris:contributorOriginId="01345514" iris:contributor="ISC" iris:contributorEventId="601529951" iris:catalog="ISC">
+        <time>
+          <value>2010-10-20T06:58:14.290000Z</value>
+        </time>
+        <latitude>
+          <value>24.5212</value>
+        </latitude>
+        <longitude>
+          <value>-109.0883</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176128828">
+        <mag>
+          <value>5.8</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=3180519">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17490831</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176128586</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="49">
+        <text>GULF OF CALIFORNIA</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17490831" iris:contributorOriginId="01345500" iris:contributor="ISC" iris:contributorEventId="15258390" iris:catalog="ISC">
+        <time>
+          <value>2010-10-20T04:15:35.480000Z</value>
+        </time>
+        <latitude>
+          <value>24.5146</value>
+        </latitude>
+        <longitude>
+          <value>-109.1891</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176128586">
+        <mag>
+          <value>5.7</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=3180518">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17490825</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176128550</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="49">
+        <text>GULF OF CALIFORNIA</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17490825" iris:contributorOriginId="01345498" iris:contributor="ISC" iris:contributorEventId="601529946" iris:catalog="ISC">
+        <time>
+          <value>2010-10-20T04:09:43.550000Z</value>
+        </time>
+        <latitude>
+          <value>24.5903</value>
+        </latitude>
+        <longitude>
+          <value>-109.1268</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176128550">
+        <mag>
+          <value>5.9</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2880294">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17435280</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176106460</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="78">
+        <text>COSTA RICA</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17435280" iris:contributorOriginId="01344271" iris:contributor="ISC" iris:contributorEventId="601529590" iris:catalog="ISC">
+        <time>
+          <value>2010-10-09T01:54:04.840000Z</value>
+        </time>
+        <latitude>
+          <value>10.2943</value>
+        </latitude>
+        <longitude>
+          <value>-84.2403</value>
+        </longitude>
+        <depth>
+          <value>93900.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176106460">
+        <mag>
+          <value>5.8</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=3179902">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17303922</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176054635</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="51">
+        <text>OFF COAST OF CENTRAL MEXICO</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17303922" iris:contributorOriginId="01239148" iris:contributor="ISC" iris:contributorEventId="15188722" iris:catalog="ISC">
+        <time>
+          <value>2010-09-14T23:32:00.760000Z</value>
+        </time>
+        <latitude>
+          <value>21.1069</value>
+        </latitude>
+        <longitude>
+          <value>-106.283</value>
+        </longitude>
+        <depth>
+          <value>31700.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176054635">
+        <mag>
+          <value>5.6</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2879607">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17267024</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176039837</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="684">
+        <text>SOUTHERN EAST PACIFIC RISE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17267024" iris:contributorOriginId="01238282" iris:contributor="ISC" iris:contributorEventId="15169404" iris:catalog="ISC">
+        <time>
+          <value>2010-09-07T19:54:28.170000Z</value>
+        </time>
+        <latitude>
+          <value>-52.9308</value>
+        </latitude>
+        <longitude>
+          <value>-118.1685</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176039837">
+        <mag>
+          <value>5.5</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2879439">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17247229</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176031963</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="153">
+        <text>SOUTH SANDWICH ISLANDS REGION</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17247229" iris:contributorOriginId="01237792" iris:contributor="ISC" iris:contributorEventId="15162547" iris:catalog="ISC">
+        <time>
+          <value>2010-09-04T11:51:58.710000Z</value>
+        </time>
+        <latitude>
+          <value>-59.0434</value>
+        </latitude>
+        <longitude>
+          <value>-25.624</value>
+        </longitude>
+        <depth>
+          <value>35000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176031963">
+        <mag>
+          <value>5.5</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2879114">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17217724</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176019395</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="153">
+        <text>SOUTH SANDWICH ISLANDS REGION</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17217724" iris:contributorOriginId="01078531" iris:contributor="ISC" iris:contributorEventId="15135956" iris:catalog="ISC">
+        <time>
+          <value>2010-08-29T06:37:48.760000Z</value>
+        </time>
+        <latitude>
+          <value>-55.8762</value>
+        </latitude>
+        <longitude>
+          <value>-27.0953</value>
+        </longitude>
+        <depth>
+          <value>31700.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176019395">
+        <mag>
+          <value>5.5</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2879090">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17215479</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176018355</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="54">
+        <text>OFF COAST OF JALISCO, MEXICO</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17215479" iris:contributorOriginId="01078471" iris:contributor="ISC" iris:contributorEventId="15132559" iris:catalog="ISC">
+        <time>
+          <value>2010-08-28T18:46:27.380000Z</value>
+        </time>
+        <latitude>
+          <value>18.6857</value>
+        </latitude>
+        <longitude>
+          <value>-107.1121</value>
+        </longitude>
+        <depth>
+          <value>30000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176018355">
+        <mag>
+          <value>5.5</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2878876">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17192328</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176008832</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="54">
+        <text>OFF COAST OF JALISCO, MEXICO</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17192328" iris:contributorOriginId="01077964" iris:contributor="ISC" iris:contributorEventId="15112969" iris:catalog="ISC">
+        <time>
+          <value>2010-08-24T02:11:59.920000Z</value>
+        </time>
+        <latitude>
+          <value>18.5693</value>
+        </latitude>
+        <longitude>
+          <value>-107.1592</value>
+        </longitude>
+        <depth>
+          <value>30000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176008832">
+        <mag>
+          <value>6.2</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2878670">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17172526</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176000511</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="70">
+        <text>GUATEMALA</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17172526" iris:contributorOriginId="01077448" iris:contributor="ISC" iris:contributorEventId="15107923" iris:catalog="ISC">
+        <time>
+          <value>2010-08-19T22:13:01.680000Z</value>
+        </time>
+        <latitude>
+          <value>14.0316</value>
+        </latitude>
+        <longitude>
+          <value>-91.2356</value>
+        </longitude>
+        <depth>
+          <value>63100.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=176000511">
+        <mag>
+          <value>5.5</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2878212">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17139131</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175985591</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="404">
+        <text>AZORES ISLANDS REGION</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17139131" iris:contributorOriginId="01076465" iris:contributor="ISC" iris:contributorEventId="15083240" iris:catalog="ISC">
+        <time>
+          <value>2010-08-13T07:58:49.170000Z</value>
+        </time>
+        <latitude>
+          <value>36.8835</value>
+        </latitude>
+        <longitude>
+          <value>-32.9034</value>
+        </longitude>
+        <depth>
+          <value>12800.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175985591">
+        <mag>
+          <value>5.5</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2877467">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17079522</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175959254</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="406">
+        <text>CENTRAL MID-ATLANTIC RIDGE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17079522" iris:contributorOriginId="01074873" iris:contributor="ISC" iris:contributorEventId="15049439" iris:catalog="ISC">
+        <time>
+          <value>2010-08-02T03:30:03.740000Z</value>
+        </time>
+        <latitude>
+          <value>7.0011</value>
+        </latitude>
+        <longitude>
+          <value>-34.4747</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175959254">
+        <mag>
+          <value>5.6</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2877337">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17070280</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175955859</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="407">
+        <text>NORTH OF ASCENSION ISLAND</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17070280" iris:contributorOriginId="01005633" iris:contributor="ISC" iris:contributorEventId="15049340" iris:catalog="ISC">
+        <time>
+          <value>2010-07-31T11:36:56.320000Z</value>
+        </time>
+        <latitude>
+          <value>-0.9834</value>
+        </latitude>
+        <longitude>
+          <value>-15.9438</value>
+        </longitude>
+        <depth>
+          <value>15300.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175955859">
+        <mag>
+          <value>5.5</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2876239">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=17015172</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175931015</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="410">
+        <text>SOUTHERN MID-ATLANTIC RIDGE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=17015172" iris:contributorOriginId="01004426" iris:contributor="ISC" iris:contributorEventId="14998530" iris:catalog="ISC">
+        <time>
+          <value>2010-07-20T17:19:51.870000Z</value>
+        </time>
+        <latitude>
+          <value>-29.0338</value>
+        </latitude>
+        <longitude>
+          <value>-13.1625</value>
+        </longitude>
+        <depth>
+          <value>18900.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175931015">
+        <mag>
+          <value>5.8</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2874984">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16951831</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175902560</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="43">
+        <text>SOUTHERN CALIFORNIA</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16951831" iris:contributorOriginId="01003108" iris:contributor="ISC" iris:contributorEventId="14930870" iris:catalog="ISC">
+        <time>
+          <value>2010-07-07T23:53:34.280000Z</value>
+        </time>
+        <latitude>
+          <value>33.3809</value>
+        </latitude>
+        <longitude>
+          <value>-116.5054</value>
+        </longitude>
+        <depth>
+          <value>7000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175902560">
+        <mag>
+          <value>5.5</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2874676">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16912331</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175886032</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="60">
+        <text>OAXACA, MEXICO</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16912331" iris:contributorOriginId="00912976" iris:contributor="ISC" iris:contributorEventId="14791433" iris:catalog="ISC">
+        <time>
+          <value>2010-06-30T07:22:27.710000Z</value>
+        </time>
+        <latitude>
+          <value>16.2901</value>
+        </latitude>
+        <longitude>
+          <value>-97.9585</value>
+        </longitude>
+        <depth>
+          <value>27800.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175886032">
+        <mag>
+          <value>6.3</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2874294">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16868930</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175867670</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="756">
+        <text>SOUTHEAST OF EASTER ISLAND</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16868930" iris:contributorOriginId="00912170" iris:contributor="ISC" iris:contributorEventId="14776332" iris:catalog="ISC">
+        <time>
+          <value>2010-06-20T21:08:50.040000Z</value>
+        </time>
+        <latitude>
+          <value>-36.1486</value>
+        </latitude>
+        <longitude>
+          <value>-100.0929</value>
+        </longitude>
+        <depth>
+          <value>13500.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175867670">
+        <mag>
+          <value>5.6</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2873964">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16841728</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175855386</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="45">
+        <text>CALIF.-BAJA CALIF. BORDER REGION</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16841728" iris:contributorOriginId="00911633" iris:contributor="ISC" iris:contributorEventId="14771060" iris:catalog="ISC">
+        <time>
+          <value>2010-06-15T04:26:58.440000Z</value>
+        </time>
+        <latitude>
+          <value>32.6854</value>
+        </latitude>
+        <longitude>
+          <value>-115.9318</value>
+        </longitude>
+        <depth>
+          <value>5300.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175855386">
+        <mag>
+          <value>5.8</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2851207">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16777022</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175827482</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="153">
+        <text>SOUTH SANDWICH ISLANDS REGION</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16777022" iris:contributorOriginId="00910416" iris:contributor="ISC" iris:contributorEventId="14834659" iris:catalog="ISC">
+        <time>
+          <value>2010-06-02T01:49:04.780000Z</value>
+        </time>
+        <latitude>
+          <value>-57.4416</value>
+        </latitude>
+        <longitude>
+          <value>-26.491</value>
+        </longitude>
+        <depth>
+          <value>135800.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175827482">
+        <mag>
+          <value>5.9</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2851164">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16772274</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175825294</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="78">
+        <text>COSTA RICA</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16772274" iris:contributorOriginId="00910320" iris:contributor="ISC" iris:contributorEventId="14734164" iris:catalog="ISC">
+        <time>
+          <value>2010-06-01T03:26:17.170000Z</value>
+        </time>
+        <latitude>
+          <value>9.3208</value>
+        </latitude>
+        <longitude>
+          <value>-84.1898</value>
+        </longitude>
+        <depth>
+          <value>28400.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175825294">
+        <mag>
+          <value>6.0</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2850862">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16739027</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175810368</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="403">
+        <text>NORTHERN MID-ATLANTIC RIDGE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16739027" iris:contributorOriginId="00795214" iris:contributor="ISC" iris:contributorEventId="14723281" iris:catalog="ISC">
+        <time>
+          <value>2010-05-25T10:09:06.280000Z</value>
+        </time>
+        <latitude>
+          <value>35.2837</value>
+        </latitude>
+        <longitude>
+          <value>-35.9366</value>
+        </longitude>
+        <depth>
+          <value>15400.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175810368">
+        <mag>
+          <value>6.3</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2850859">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16738873</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175810272</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="691">
+        <text>PACIFIC-ANTARCTIC RIDGE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16738873" iris:contributorOriginId="00795208" iris:contributor="ISC" iris:contributorEventId="14724678" iris:catalog="ISC">
+        <time>
+          <value>2010-05-25T09:19:32.170000Z</value>
+        </time>
+        <latitude>
+          <value>-65.4806</value>
+        </latitude>
+        <longitude>
+          <value>-179.9498</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175810272">
+        <mag>
+          <value>5.5</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2850722">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16723781</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175803634</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="691">
+        <text>PACIFIC-ANTARCTIC RIDGE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16723781" iris:contributorOriginId="00794881" iris:contributor="ISC" iris:contributorEventId="14717183" iris:catalog="ISC">
+        <time>
+          <value>2010-05-22T06:15:17.010000Z</value>
+        </time>
+        <latitude>
+          <value>-56.242</value>
+        </latitude>
+        <longitude>
+          <value>-138.9853</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175803634">
+        <mag>
+          <value>5.7</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2850675">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16717224</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175801158</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="78">
+        <text>COSTA RICA</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16717224" iris:contributorOriginId="00794778" iris:contributor="ISC" iris:contributorEventId="14714373" iris:catalog="ISC">
+        <time>
+          <value>2010-05-20T22:16:32.250000Z</value>
+        </time>
+        <latitude>
+          <value>9.2966</value>
+        </latitude>
+        <longitude>
+          <value>-84.2166</value>
+        </longitude>
+        <depth>
+          <value>29500.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175801158">
+        <mag>
+          <value>5.9</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2850633">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16712625</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175799261</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="691">
+        <text>PACIFIC-ANTARCTIC RIDGE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16712625" iris:contributorOriginId="00794691" iris:contributor="ISC" iris:contributorEventId="14725054" iris:catalog="ISC">
+        <time>
+          <value>2010-05-20T00:44:57.980000Z</value>
+        </time>
+        <latitude>
+          <value>-56.5279</value>
+        </latitude>
+        <longitude>
+          <value>-143.3641</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175799261">
+        <mag>
+          <value>5.6</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2850614">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16709923</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175798246</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="691">
+        <text>PACIFIC-ANTARCTIC RIDGE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16709923" iris:contributorOriginId="00794651" iris:contributor="ISC" iris:contributorEventId="14712398" iris:catalog="ISC">
+        <time>
+          <value>2010-05-19T10:51:03.600000Z</value>
+        </time>
+        <latitude>
+          <value>-54.6467</value>
+        </latitude>
+        <longitude>
+          <value>-135.4232</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175798246">
+        <mag>
+          <value>6.0</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=4027758">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16709825</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175798171</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="691">
+        <text>PACIFIC-ANTARCTIC RIDGE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16709825" iris:contributorOriginId="00794648" iris:contributor="ISC" iris:contributorEventId="17173068" iris:catalog="ISC">
+        <time>
+          <value>2010-05-19T10:30:11.010000Z</value>
+        </time>
+        <latitude>
+          <value>-54.7467</value>
+        </latitude>
+        <longitude>
+          <value>-135.3308</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175798171">
+        <mag>
+          <value>6.0</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2850471">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16692522</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175791245</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="89">
+        <text>MONA PASSAGE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16692522" iris:contributorOriginId="00794324" iris:contributor="ISC" iris:contributorEventId="14710743" iris:catalog="ISC">
+        <time>
+          <value>2010-05-16T05:16:09.640000Z</value>
+        </time>
+        <latitude>
+          <value>18.2695</value>
+        </latitude>
+        <longitude>
+          <value>-67.1144</value>
+        </longitude>
+        <depth>
+          <value>113600.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175791245">
+        <mag>
+          <value>5.8</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2850088">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16649730</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175772603</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="30">
+        <text>OFF COAST OF OREGON</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16649730" iris:contributorOriginId="00793456" iris:contributor="ISC" iris:contributorEventId="14685214" iris:catalog="ISC">
+        <time>
+          <value>2010-05-07T17:46:14.240000Z</value>
+        </time>
+        <latitude>
+          <value>44.4194</value>
+        </latitude>
+        <longitude>
+          <value>-129.455</value>
+        </longitude>
+        <depth>
+          <value>11400.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175772603">
+        <mag>
+          <value>5.5</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2850037">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16643425</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175769935</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="691">
+        <text>PACIFIC-ANTARCTIC RIDGE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16643425" iris:contributorOriginId="00793344" iris:contributor="ISC" iris:contributorEventId="14685202" iris:catalog="ISC">
+        <time>
+          <value>2010-05-06T11:35:30.220000Z</value>
+        </time>
+        <latitude>
+          <value>-55.5006</value>
+        </latitude>
+        <longitude>
+          <value>-127.8431</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175769935">
+        <mag>
+          <value>5.8</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2849975">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16637675</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175767395</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="756">
+        <text>SOUTHEAST OF EASTER ISLAND</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16637675" iris:contributorOriginId="00793210" iris:contributor="ISC" iris:contributorEventId="14768951" iris:catalog="ISC">
+        <time>
+          <value>2010-05-05T09:38:23.290000Z</value>
+        </time>
+        <latitude>
+          <value>-35.952</value>
+        </latitude>
+        <longitude>
+          <value>-103.1426</value>
+        </longitude>
+        <depth>
+          <value>12000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175767395">
+        <mag>
+          <value>5.9</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2849481">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16592675</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175747907</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="153">
+        <text>SOUTH SANDWICH ISLANDS REGION</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16592675" iris:contributorOriginId="00688363" iris:contributor="ISC" iris:contributorEventId="14630625" iris:catalog="ISC">
+        <time>
+          <value>2010-04-25T21:09:47.040000Z</value>
+        </time>
+        <latitude>
+          <value>-55.7081</value>
+        </latitude>
+        <longitude>
+          <value>-27.9128</value>
+        </longitude>
+        <depth>
+          <value>26000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175747907">
+        <mag>
+          <value>5.7</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2849172">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16557176</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175732100</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="69">
+        <text>NEAR COAST OF CHIAPAS, MEXICO</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16557176" iris:contributorOriginId="00687614" iris:contributor="ISC" iris:contributorEventId="14580194" iris:catalog="ISC">
+        <time>
+          <value>2010-04-18T13:30:57.960000Z</value>
+        </time>
+        <latitude>
+          <value>14.4602</value>
+        </latitude>
+        <longitude>
+          <value>-92.174</value>
+        </longitude>
+        <depth>
+          <value>62700.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175732100">
+        <mag>
+          <value>5.6</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2849122">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16552779</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175730010</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="74">
+        <text>NEAR COAST OF NICARAGUA</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16552779" iris:contributorOriginId="00687524" iris:contributor="ISC" iris:contributorEventId="14580141" iris:catalog="ISC">
+        <time>
+          <value>2010-04-17T20:52:43.150000Z</value>
+        </time>
+        <latitude>
+          <value>11.6642</value>
+        </latitude>
+        <longitude>
+          <value>-86.8938</value>
+        </longitude>
+        <depth>
+          <value>43000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175730010">
+        <mag>
+          <value>5.5</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2849008">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16542279</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175725242</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="694">
+        <text>CENTRAL EAST PACIFIC RISE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16542279" iris:contributorOriginId="00687311" iris:contributor="ISC" iris:contributorEventId="14598790" iris:catalog="ISC">
+        <time>
+          <value>2010-04-15T20:52:31.070000Z</value>
+        </time>
+        <latitude>
+          <value>-13.4616</value>
+        </latitude>
+        <longitude>
+          <value>-112.1793</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175725242">
+        <mag>
+          <value>5.7</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2848884">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16531781</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175720380</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="153">
+        <text>SOUTH SANDWICH ISLANDS REGION</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16531781" iris:contributorOriginId="00687074" iris:contributor="ISC" iris:contributorEventId="14575974" iris:catalog="ISC">
+        <time>
+          <value>2010-04-13T20:27:01.490000Z</value>
+        </time>
+        <latitude>
+          <value>-56.3886</value>
+        </latitude>
+        <longitude>
+          <value>-27.5214</value>
+        </longitude>
+        <depth>
+          <value>108600.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175720380">
+        <mag>
+          <value>5.5</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=8192424">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16521673</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175715714</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="377">
+        <text>SPAIN</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16521673" iris:contributorOriginId="00686831" iris:contributor="ISC" iris:contributorEventId="600257778" iris:catalog="ISC">
+        <time>
+          <value>2010-04-11T22:08:11.320000Z</value>
+        </time>
+        <latitude>
+          <value>37.0075</value>
+        </latitude>
+        <longitude>
+          <value>-3.4764</value>
+        </longitude>
+        <depth>
+          <value>619600.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175715714">
+        <mag>
+          <value>6.3</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2847538">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16451681</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175683815</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="691">
+        <text>PACIFIC-ANTARCTIC RIDGE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16451681" iris:contributorOriginId="00305336" iris:contributor="ISC" iris:contributorEventId="14522181" iris:catalog="ISC">
+        <time>
+          <value>2010-03-28T20:01:06.520000Z</value>
+        </time>
+        <latitude>
+          <value>-54.9838</value>
+        </latitude>
+        <longitude>
+          <value>-127.9867</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175683815">
+        <mag>
+          <value>5.7</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2847161">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16413329</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175666490</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="85">
+        <text>CUBA REGION</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16413329" iris:contributorOriginId="00304427" iris:contributor="ISC" iris:contributorEventId="16593481" iris:catalog="ISC">
+        <time>
+          <value>2010-03-20T18:08:09.240000Z</value>
+        </time>
+        <latitude>
+          <value>19.6873</value>
+        </latitude>
+        <longitude>
+          <value>-75.4031</value>
+        </longitude>
+        <depth>
+          <value>19500.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175666490">
+        <mag>
+          <value>5.7</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2846798">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16383874</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175653071</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="153">
+        <text>SOUTH SANDWICH ISLANDS REGION</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16383874" iris:contributorOriginId="00303721" iris:contributor="ISC" iris:contributorEventId="14409357" iris:catalog="ISC">
+        <time>
+          <value>2010-03-14T22:33:16.350000Z</value>
+        </time>
+        <latitude>
+          <value>-58.4113</value>
+        </latitude>
+        <longitude>
+          <value>-23.6608</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175653071">
+        <mag>
+          <value>5.6</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2846478">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16364778</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175643425</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="153">
+        <text>SOUTH SANDWICH ISLANDS REGION</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16364778" iris:contributorOriginId="00303117" iris:contributor="ISC" iris:contributorEventId="14554051" iris:catalog="ISC">
+        <time>
+          <value>2010-03-11T06:22:18.660000Z</value>
+        </time>
+        <latitude>
+          <value>-57.2815</value>
+        </latitude>
+        <longitude>
+          <value>-27.9325</value>
+        </longitude>
+        <depth>
+          <value>307500.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175643425">
+        <mag>
+          <value>5.6</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2846205">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16345079</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175633476</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="684">
+        <text>SOUTHERN EAST PACIFIC RISE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16345079" iris:contributorOriginId="00302535" iris:contributor="ISC" iris:contributorEventId="14554021" iris:catalog="ISC">
+        <time>
+          <value>2010-03-07T07:05:24.930000Z</value>
+        </time>
+        <latitude>
+          <value>-16.2917</value>
+        </latitude>
+        <longitude>
+          <value>-115.2909</value>
+        </longitude>
+        <depth>
+          <value>17900.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175633476">
+        <mag>
+          <value>6.2</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2845269">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16302673</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175609746</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="403">
+        <text>NORTHERN MID-ATLANTIC RIDGE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16302673" iris:contributorOriginId="00198679" iris:contributor="ISC" iris:contributorEventId="14342115" iris:catalog="ISC">
+        <time>
+          <value>2010-02-27T19:54:29.770000Z</value>
+        </time>
+        <latitude>
+          <value>10.8044</value>
+        </latitude>
+        <longitude>
+          <value>-43.4003</value>
+        </longitude>
+        <depth>
+          <value>16000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175609746">
+        <mag>
+          <value>5.8</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2844987">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16298076</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175606104</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="691">
+        <text>PACIFIC-ANTARCTIC RIDGE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16298076" iris:contributorOriginId="00198270" iris:contributor="ISC" iris:contributorEventId="15664866" iris:catalog="ISC">
+        <time>
+          <value>2010-02-27T06:34:13.590000Z</value>
+        </time>
+        <latitude>
+          <value>-53.8198</value>
+        </latitude>
+        <longitude>
+          <value>-132.9605</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175606104">
+        <mag>
+          <value>5.6</value>
+        </mag>
+        <type>mb</type>
+        <creationInfo>
+          <author>NEIC</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2844928">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16292376</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175603613</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="410">
+        <text>SOUTHERN MID-ATLANTIC RIDGE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16292376" iris:contributorOriginId="00198132" iris:contributor="ISC" iris:contributorEventId="14335100" iris:catalog="ISC">
+        <time>
+          <value>2010-02-26T00:11:51.460000Z</value>
+        </time>
+        <latitude>
+          <value>-55.7565</value>
+        </latitude>
+        <longitude>
+          <value>-5.2453</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175603613">
+        <mag>
+          <value>5.6</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2844894">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16288529</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175601841</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="74">
+        <text>NEAR COAST OF NICARAGUA</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16288529" iris:contributorOriginId="00198051" iris:contributor="ISC" iris:contributorEventId="14330839" iris:catalog="ISC">
+        <time>
+          <value>2010-02-25T03:15:05.360000Z</value>
+        </time>
+        <latitude>
+          <value>11.0646</value>
+        </latitude>
+        <longitude>
+          <value>-86.2997</value>
+        </longitude>
+        <depth>
+          <value>50200.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175601841">
+        <mag>
+          <value>5.7</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2844850">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16281825</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175599177</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="62">
+        <text>MEXICO-GUATEMALA BORDER REGION</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16281825" iris:contributorOriginId="00197934" iris:contributor="ISC" iris:contributorEventId="14329075" iris:catalog="ISC">
+        <time>
+          <value>2010-02-23T15:16:03.230000Z</value>
+        </time>
+        <latitude>
+          <value>15.9515</value>
+        </latitude>
+        <longitude>
+          <value>-91.2494</value>
+        </longitude>
+        <depth>
+          <value>30000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175599177">
+        <mag>
+          <value>5.6</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2844383">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16165022</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175573982</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="410">
+        <text>SOUTHERN MID-ATLANTIC RIDGE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16165022" iris:contributorOriginId="00196825" iris:contributor="ISC" iris:contributorEventId="14300911" iris:catalog="ISC">
+        <time>
+          <value>2010-02-11T11:51:54.350000Z</value>
+        </time>
+        <latitude>
+          <value>-40.4635</value>
+        </latitude>
+        <longitude>
+          <value>-16.7756</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175573982">
+        <mag>
+          <value>5.5</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2844291">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=16064322</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175569334</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="66">
+        <text>NEAR COAST OF OAXACA, MEXICO</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=16064322" iris:contributorOriginId="00196596" iris:contributor="ISC" iris:contributorEventId="14298727" iris:catalog="ISC">
+        <time>
+          <value>2010-02-09T00:47:39.950000Z</value>
+        </time>
+        <latitude>
+          <value>15.9785</value>
+        </latitude>
+        <longitude>
+          <value>-96.7683</value>
+        </longitude>
+        <depth>
+          <value>33200.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175569334">
+        <mag>
+          <value>5.7</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2844129">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=15891622</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175561565</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="35">
+        <text>NEAR COAST OF NORTHERN CALIF.</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=15891622" iris:contributorOriginId="00196230" iris:contributor="ISC" iris:contributorEventId="14280673" iris:catalog="ISC">
+        <time>
+          <value>2010-02-04T20:20:22.890000Z</value>
+        </time>
+        <latitude>
+          <value>40.3693</value>
+        </latitude>
+        <longitude>
+          <value>-124.8935</value>
+        </longitude>
+        <depth>
+          <value>19600.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175561565">
+        <mag>
+          <value>5.9</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2843946">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=15676472</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175552463</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="691">
+        <text>PACIFIC-ANTARCTIC RIDGE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=15676472" iris:contributorOriginId="00014799" iris:contributor="ISC" iris:contributorEventId="14280437" iris:catalog="ISC">
+        <time>
+          <value>2010-01-30T19:21:27.490000Z</value>
+        </time>
+        <latitude>
+          <value>-56.7659</value>
+        </latitude>
+        <longitude>
+          <value>-141.7673</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175552463">
+        <mag>
+          <value>5.7</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2843922">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=15638372</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175550777</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="696">
+        <text>GALAPAGOS ISLANDS REGION</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=15638372" iris:contributorOriginId="00014720" iris:contributor="ISC" iris:contributorEventId="14265161" iris:catalog="ISC">
+        <time>
+          <value>2010-01-29T20:47:53.100000Z</value>
+        </time>
+        <latitude>
+          <value>1.4846</value>
+        </latitude>
+        <longitude>
+          <value>-90.668</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175550777">
+        <mag>
+          <value>5.6</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2843913">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=15623172</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175550149</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="696">
+        <text>GALAPAGOS ISLANDS REGION</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=15623172" iris:contributorOriginId="00014695" iris:contributor="ISC" iris:contributorEventId="14264741" iris:catalog="ISC">
+        <time>
+          <value>2010-01-29T13:16:26.020000Z</value>
+        </time>
+        <latitude>
+          <value>1.5996</value>
+        </latitude>
+        <longitude>
+          <value>-90.3986</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175550149">
+        <mag>
+          <value>5.5</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2843835">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=15546572</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175546701</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="410">
+        <text>SOUTHERN MID-ATLANTIC RIDGE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=15546572" iris:contributorOriginId="00014545" iris:contributor="ISC" iris:contributorEventId="14259740" iris:catalog="ISC">
+        <time>
+          <value>2010-01-27T17:42:45.690000Z</value>
+        </time>
+        <latitude>
+          <value>-14.106</value>
+        </latitude>
+        <longitude>
+          <value>-14.4868</value>
+        </longitude>
+        <depth>
+          <value>12600.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175546701">
+        <mag>
+          <value>5.8</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2843573">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=15258572</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175533670</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="693">
+        <text>EAST CENTRAL PACIFIC OCEAN</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=15258572" iris:contributorOriginId="00013968" iris:contributor="ISC" iris:contributorEventId="14245464" iris:catalog="ISC">
+        <time>
+          <value>2010-01-21T08:03:22.410000Z</value>
+        </time>
+        <latitude>
+          <value>8.3244</value>
+        </latitude>
+        <longitude>
+          <value>-110.4846</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175533670">
+        <mag>
+          <value>5.6</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=3922355">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=15258522</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175533668</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="71">
+        <text>NEAR COAST OF GUATEMALA</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=15258522" iris:contributorOriginId="15659576" iris:contributor="ISC" iris:contributorEventId="16246631" iris:catalog="ISC">
+        <time>
+          <value>2010-01-21T08:03:01.800000Z</value>
+        </time>
+        <latitude>
+          <value>13.634</value>
+        </latitude>
+        <longitude>
+          <value>-90.435</value>
+        </longitude>
+        <depth>
+          <value>59000.0</value>
+        </depth>
+        <creationInfo>
+          <author>CASC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175533668">
+        <mag>
+          <value>5.6</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>NEIC</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2843526">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=15217922</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175531842</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="87">
+        <text>HAITI REGION</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=15217922" iris:contributorOriginId="00013875" iris:contributor="ISC" iris:contributorEventId="14242061" iris:catalog="ISC">
+        <time>
+          <value>2010-01-20T11:03:43.560000Z</value>
+        </time>
+        <latitude>
+          <value>18.3598</value>
+        </latitude>
+        <longitude>
+          <value>-72.8705</value>
+        </longitude>
+        <depth>
+          <value>10300.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175531842">
+        <mag>
+          <value>5.8</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2843484">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=15178172</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175529977</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="731">
+        <text>NORTH OF HONDURAS</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=15178172" iris:contributorOriginId="00013792" iris:contributor="ISC" iris:contributorEventId="14240648" iris:catalog="ISC">
+        <time>
+          <value>2010-01-19T14:23:38.870000Z</value>
+        </time>
+        <latitude>
+          <value>18.9051</value>
+        </latitude>
+        <longitude>
+          <value>-80.9773</value>
+        </longitude>
+        <depth>
+          <value>12000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175529977">
+        <mag>
+          <value>5.9</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2843424">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=15129672</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175527618</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="71">
+        <text>NEAR COAST OF GUATEMALA</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=15129672" iris:contributorOriginId="00013683" iris:contributor="ISC" iris:contributorEventId="14238701" iris:catalog="ISC">
+        <time>
+          <value>2010-01-18T15:40:27.840000Z</value>
+        </time>
+        <latitude>
+          <value>13.6728</value>
+        </latitude>
+        <longitude>
+          <value>-90.4738</value>
+        </longitude>
+        <depth>
+          <value>63300.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175527618">
+        <mag>
+          <value>5.9</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2843369">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=15082422</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175525439</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="149">
+        <text>DRAKE PASSAGE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=15082422" iris:contributorOriginId="00013580" iris:contributor="ISC" iris:contributorEventId="14286115" iris:catalog="ISC">
+        <time>
+          <value>2010-01-17T12:00:01.570000Z</value>
+        </time>
+        <latitude>
+          <value>-57.6927</value>
+        </latitude>
+        <longitude>
+          <value>-66.0377</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175525439">
+        <mag>
+          <value>6.2</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2843290">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=15008872</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175522363</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="97">
+        <text>NEAR COAST OF VENEZUELA</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=15008872" iris:contributorOriginId="00013442" iris:contributor="ISC" iris:contributorEventId="16883569" iris:catalog="ISC">
+        <time>
+          <value>2010-01-15T18:00:47.390000Z</value>
+        </time>
+        <latitude>
+          <value>10.4886</value>
+        </latitude>
+        <longitude>
+          <value>-63.4851</value>
+        </longitude>
+        <depth>
+          <value>12800.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175522363">
+        <mag>
+          <value>5.6</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2843158">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=14899172</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175517204</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="87">
+        <text>HAITI REGION</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=14899172" iris:contributorOriginId="00012991" iris:contributor="ISC" iris:contributorEventId="16883530" iris:catalog="ISC">
+        <time>
+          <value>2010-01-13T05:02:56.660000Z</value>
+        </time>
+        <latitude>
+          <value>18.369</value>
+        </latitude>
+        <longitude>
+          <value>-72.9246</value>
+        </longitude>
+        <depth>
+          <value>6000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175517204">
+        <mag>
+          <value>5.8</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2843138">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=14893472</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175516820</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="87">
+        <text>HAITI REGION</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=14893472" iris:contributorOriginId="00012962" iris:contributor="ISC" iris:contributorEventId="14226359" iris:catalog="ISC">
+        <time>
+          <value>2010-01-13T01:36:32.100000Z</value>
+        </time>
+        <latitude>
+          <value>18.3306</value>
+        </latitude>
+        <longitude>
+          <value>-72.8945</value>
+        </longitude>
+        <depth>
+          <value>14700.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175516820">
+        <mag>
+          <value>5.6</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2843137">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=14893272</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175516801</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="87">
+        <text>HAITI REGION</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=14893272" iris:contributorOriginId="00012961" iris:contributor="ISC" iris:contributorEventId="14226358" iris:catalog="ISC">
+        <time>
+          <value>2010-01-13T01:32:43.450000Z</value>
+        </time>
+        <latitude>
+          <value>18.3721</value>
+        </latitude>
+        <longitude>
+          <value>-72.8992</value>
+        </longitude>
+        <depth>
+          <value>6000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175516801">
+        <mag>
+          <value>5.6</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=3915550">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=14887272</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175516346</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="87">
+        <text>HAITI REGION</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=14887272" iris:contributorOriginId="00012892" iris:contributor="ISC" iris:contributorEventId="17146205" iris:catalog="ISC">
+        <time>
+          <value>2010-01-12T22:12:04.870000Z</value>
+        </time>
+        <latitude>
+          <value>18.4158</value>
+        </latitude>
+        <longitude>
+          <value>-72.5363</value>
+        </longitude>
+        <depth>
+          <value>14000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175516346">
+        <mag>
+          <value>5.7</value>
+        </mag>
+        <type>mb</type>
+        <creationInfo>
+          <author>NEIC</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2843111">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=14886822</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175516310</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="87">
+        <text>HAITI REGION</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=14886822" iris:contributorOriginId="00012881" iris:contributor="ISC" iris:contributorEventId="14226222" iris:catalog="ISC">
+        <time>
+          <value>2010-01-12T22:00:40.720000Z</value>
+        </time>
+        <latitude>
+          <value>18.3371</value>
+        </latitude>
+        <longitude>
+          <value>-72.7939</value>
+        </longitude>
+        <depth>
+          <value>6000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175516310">
+        <mag>
+          <value>6.0</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2842975">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=14762822</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175510720</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="35">
+        <text>NEAR COAST OF NORTHERN CALIF.</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=14762822" iris:contributorOriginId="00012594" iris:contributor="ISC" iris:contributorEventId="14223208" iris:catalog="ISC">
+        <time>
+          <value>2010-01-10T00:27:41.850000Z</value>
+        </time>
+        <latitude>
+          <value>40.6654</value>
+        </latitude>
+        <longitude>
+          <value>-124.4669</value>
+        </longitude>
+        <depth>
+          <value>20600.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175510720">
+        <mag>
+          <value>6.5</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+    <event publicID="smi:service.iris.edu/fdsnws/event/1/query?eventid=2842866">
+      <preferredOriginID>smi:service.iris.edu/fdsnws/event/1/query?originid=14628772</preferredOriginID>
+      <preferredMagnitudeID>smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175504739</preferredMagnitudeID>
+      <type>earthquake</type>
+      <description iris:FEcode="410">
+        <text>SOUTHERN MID-ATLANTIC RIDGE</text>
+        <type>Flinn-Engdahl region</type>
+      </description>
+      <origin publicID="smi:service.iris.edu/fdsnws/event/1/query?originid=14628772" iris:contributorOriginId="00012266" iris:contributor="ISC" iris:contributorEventId="14218740" iris:catalog="ISC">
+        <time>
+          <value>2010-01-06T16:38:36.310000Z</value>
+        </time>
+        <latitude>
+          <value>-41.5501</value>
+        </latitude>
+        <longitude>
+          <value>-16.6201</value>
+        </longitude>
+        <depth>
+          <value>10000.0</value>
+        </depth>
+        <creationInfo>
+          <author>ISC</author>
+        </creationInfo>
+      </origin>
+      <magnitude publicID="smi:service.iris.edu/fdsnws/event/1/query?magnitudeid=175504739">
+        <mag>
+          <value>5.5</value>
+        </mag>
+        <type>MW</type>
+        <creationInfo>
+          <author>GCMT</author>
+        </creationInfo>
+      </magnitude>
+    </event>
+  </eventParameters>
+</q:quakeml>
